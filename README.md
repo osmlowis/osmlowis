@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osmlowis
 - 👀 I’m interested in software testing.
-- 🌱 I’m currently learning coding.
+- 🌱 Profile and repositories currently a work-in-progress.
 
 <!---
 osmlowis/osmlowis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
